@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677589525328",
+    "project_id": "zichat-3877e",
+    "storage_bucket": "zichat-3877e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677589525328:android:0f8ad98c1fc2bbd3f6c255",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677589525328-3r9mbhun48i41aabq0gsas2sdo76r9rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ffT7wiDpc-ScFXpnuIzYaKAOxzrVMUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677589525328-3r9mbhun48i41aabq0gsas2sdo76r9rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
